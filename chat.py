@@ -1,7 +1,7 @@
 import openai
 import sys
 
-openai.api_key = "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"
+openai.api_key = "PRIVATE_KEY"
 
 chat_history = []
 
